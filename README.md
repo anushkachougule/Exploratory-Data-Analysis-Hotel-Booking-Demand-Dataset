@@ -6,3 +6,5 @@ This project is a thorough investigation into the dynamics of hotel bookings dur
 The primary goal of this project is to unravel meaningful insights and trends within the hotel booking industry during the specified time frame. Through careful examinatio and analysis, we aim to provide a comprehensive understanding of booking patterns, cancellationsm and Average Daily Rates(ADR).
 
 ## Dataset
+The dataset that is used in this analysis is Hotel booking demand available on Kaggle. 
+- Link : https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand/data
